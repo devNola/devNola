@@ -1,4 +1,4 @@
-### Olá! Eu sou Artur Nola programador frond-end 🧑 👋
+### Olá! Eu sou Artur Nola programador full-stack 🧑 👋
 
 
 ### A cada dia que passa sempre melhorando minhas habilidades.
